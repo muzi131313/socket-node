@@ -1,2 +1,8 @@
 # socket-node
-node服务端端的socket处理
+node server's socket handle
+
+## tech list
+net: socket server listen
+request: ajax translate lib
+mongodb: db dataset
+

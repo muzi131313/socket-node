@@ -1,0 +1,23 @@
+{
+  "name": "socket-node",
+  "version": "1.0.0",
+  "description": "node服务端的socket处理",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzi131313/socket-node.git"
+  },
+  "keywords": [
+    "node",
+    "socket"
+  ],
+  "author": "roastwind",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/muzi131313/socket-node/issues"
+  },
+  "homepage": "https://github.com/muzi131313/socket-node#readme"
+}
